@@ -12,11 +12,9 @@ public class AbsuluteStaticValue {
 			}
 			if (isPrime) {
 				System.out.println(i + " ");
+				System.out.println("absulute Static");
 			}
 		}
-		
-		
-		
-		
+
 	}
 }
